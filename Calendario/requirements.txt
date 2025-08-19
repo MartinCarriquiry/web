@@ -1,0 +1,6 @@
+streamlit
+plotly
+pandas
+python-dateutil
+supabase==2.6.0
+
