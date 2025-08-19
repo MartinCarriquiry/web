@@ -1,5 +1,0 @@
-streamlit
-plotly
-pandas
-python-dateutil
-supabase>=2.5
